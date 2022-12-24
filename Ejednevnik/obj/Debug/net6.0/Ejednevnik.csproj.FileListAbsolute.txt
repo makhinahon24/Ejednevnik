@@ -1,0 +1,15 @@
+/Users/marinatursunova/RiderProjects/Ejednevnik/Ejednevnik/obj/Debug/net6.0/Ejednevnik.csproj.AssemblyReference.cache
+/Users/marinatursunova/RiderProjects/Ejednevnik/Ejednevnik/obj/Debug/net6.0/Ejednevnik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinatursunova/RiderProjects/Ejednevnik/Ejednevnik/obj/Debug/net6.0/Ejednevnik.AssemblyInfoInputs.cache
+/Users/marinatursunova/RiderProjects/Ejednevnik/Ejednevnik/obj/Debug/net6.0/Ejednevnik.AssemblyInfo.cs
+/Users/marinatursunova/RiderProjects/Ejednevnik/Ejednevnik/obj/Debug/net6.0/Ejednevnik.csproj.CoreCompileInputs.cache
+/Users/marinatursunova/RiderProjects/Ejednevnik/Ejednevnik/bin/Debug/net6.0/Ejednevnik
+/Users/marinatursunova/RiderProjects/Ejednevnik/Ejednevnik/bin/Debug/net6.0/Ejednevnik.deps.json
+/Users/marinatursunova/RiderProjects/Ejednevnik/Ejednevnik/bin/Debug/net6.0/Ejednevnik.runtimeconfig.json
+/Users/marinatursunova/RiderProjects/Ejednevnik/Ejednevnik/bin/Debug/net6.0/Ejednevnik.dll
+/Users/marinatursunova/RiderProjects/Ejednevnik/Ejednevnik/bin/Debug/net6.0/Ejednevnik.pdb
+/Users/marinatursunova/RiderProjects/Ejednevnik/Ejednevnik/obj/Debug/net6.0/Ejednevnik.dll
+/Users/marinatursunova/RiderProjects/Ejednevnik/Ejednevnik/obj/Debug/net6.0/refint/Ejednevnik.dll
+/Users/marinatursunova/RiderProjects/Ejednevnik/Ejednevnik/obj/Debug/net6.0/Ejednevnik.pdb
+/Users/marinatursunova/RiderProjects/Ejednevnik/Ejednevnik/obj/Debug/net6.0/Ejednevnik.genruntimeconfig.cache
+/Users/marinatursunova/RiderProjects/Ejednevnik/Ejednevnik/obj/Debug/net6.0/ref/Ejednevnik.dll
